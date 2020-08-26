@@ -1,0 +1,7 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício45_SituaçãoVoto\bin\Debug\Exercício45_SituaçãoVoto.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício45_SituaçãoVoto\bin\Debug\Exercício45_SituaçãoVoto.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício45_SituaçãoVoto\bin\Debug\Exercício45_SituaçãoVoto.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício45_SituaçãoVoto\obj\Debug\Exercício45_SituaçãoVoto.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício45_SituaçãoVoto\obj\Debug\Exercício45_SituaçãoVoto.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício45_SituaçãoVoto\obj\Debug\Exercício45_SituaçãoVoto.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício45_SituaçãoVoto\obj\Debug\Exercício45_SituaçãoVoto.pdb

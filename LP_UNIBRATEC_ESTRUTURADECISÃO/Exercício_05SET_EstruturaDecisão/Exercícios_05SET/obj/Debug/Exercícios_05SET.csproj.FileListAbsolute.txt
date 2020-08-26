@@ -1,0 +1,7 @@
+C:\Users\Lí\source\repos\Exercício43_2Turno\Exercícios_05SET\bin\Debug\Exercícios_05SET.exe.config
+C:\Users\Lí\source\repos\Exercício43_2Turno\Exercícios_05SET\bin\Debug\Exercícios_05SET.exe
+C:\Users\Lí\source\repos\Exercício43_2Turno\Exercícios_05SET\bin\Debug\Exercícios_05SET.pdb
+C:\Users\Lí\source\repos\Exercício43_2Turno\Exercícios_05SET\obj\Debug\Exercícios_05SET.csprojAssemblyReference.cache
+C:\Users\Lí\source\repos\Exercício43_2Turno\Exercícios_05SET\obj\Debug\Exercícios_05SET.csproj.CoreCompileInputs.cache
+C:\Users\Lí\source\repos\Exercício43_2Turno\Exercícios_05SET\obj\Debug\Exercícios_05SET.exe
+C:\Users\Lí\source\repos\Exercício43_2Turno\Exercícios_05SET\obj\Debug\Exercícios_05SET.pdb

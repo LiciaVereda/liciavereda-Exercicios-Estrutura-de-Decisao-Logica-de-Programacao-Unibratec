@@ -1,0 +1,7 @@
+C:\Users\Lí\source\repos\Exercício43_2Turno\Exerc44_VencedorEleição\bin\Debug\Exerc44_VencedorEleição.exe.config
+C:\Users\Lí\source\repos\Exercício43_2Turno\Exerc44_VencedorEleição\bin\Debug\Exerc44_VencedorEleição.exe
+C:\Users\Lí\source\repos\Exercício43_2Turno\Exerc44_VencedorEleição\bin\Debug\Exerc44_VencedorEleição.pdb
+C:\Users\Lí\source\repos\Exercício43_2Turno\Exerc44_VencedorEleição\obj\Debug\Exerc44_VencedorEleição.csprojAssemblyReference.cache
+C:\Users\Lí\source\repos\Exercício43_2Turno\Exerc44_VencedorEleição\obj\Debug\Exerc44_VencedorEleição.csproj.CoreCompileInputs.cache
+C:\Users\Lí\source\repos\Exercício43_2Turno\Exerc44_VencedorEleição\obj\Debug\Exerc44_VencedorEleição.exe
+C:\Users\Lí\source\repos\Exercício43_2Turno\Exerc44_VencedorEleição\obj\Debug\Exerc44_VencedorEleição.pdb

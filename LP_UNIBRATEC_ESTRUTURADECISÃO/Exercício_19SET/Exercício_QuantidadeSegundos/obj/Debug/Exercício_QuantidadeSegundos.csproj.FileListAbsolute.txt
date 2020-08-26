@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_QuantidadeSegundos\obj\Debug\Exercício_QuantidadeSegundos.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_QuantidadeSegundos\obj\Debug\Exercício_QuantidadeSegundos.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_QuantidadeSegundos\bin\Debug\Exercício_QuantidadeSegundos.exe.config
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_QuantidadeSegundos\bin\Debug\Exercício_QuantidadeSegundos.exe
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_QuantidadeSegundos\bin\Debug\Exercício_QuantidadeSegundos.pdb
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_QuantidadeSegundos\obj\Debug\Exercício_QuantidadeSegundos.exe
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_QuantidadeSegundos\obj\Debug\Exercício_QuantidadeSegundos.pdb

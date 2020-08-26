@@ -1,0 +1,6 @@
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_Compare\bin\Debug\Exercício_Compare.exe.config
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_Compare\bin\Debug\Exercício_Compare.exe
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_Compare\bin\Debug\Exercício_Compare.pdb
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_Compare\obj\Debug\Exercício_Compare.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_Compare\obj\Debug\Exercício_Compare.exe
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_Compare\obj\Debug\Exercício_Compare.pdb

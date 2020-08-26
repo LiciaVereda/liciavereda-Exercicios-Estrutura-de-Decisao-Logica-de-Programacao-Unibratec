@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício\bin\Debug\Exercício.exe.config
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício\bin\Debug\Exercício.exe
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício\bin\Debug\Exercício.pdb
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício\obj\Debug\Exercício.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício\obj\Debug\Exercício.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício\obj\Debug\Exercício.exe
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício\obj\Debug\Exercício.pdb

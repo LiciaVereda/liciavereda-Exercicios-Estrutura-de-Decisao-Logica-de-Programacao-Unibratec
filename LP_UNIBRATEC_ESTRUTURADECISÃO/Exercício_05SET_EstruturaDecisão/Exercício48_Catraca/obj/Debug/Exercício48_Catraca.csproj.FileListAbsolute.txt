@@ -1,0 +1,7 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício48_Catraca\bin\Debug\Exercício48_Catraca.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício48_Catraca\bin\Debug\Exercício48_Catraca.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício48_Catraca\bin\Debug\Exercício48_Catraca.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício48_Catraca\obj\Debug\Exercício48_Catraca.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício48_Catraca\obj\Debug\Exercício48_Catraca.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício48_Catraca\obj\Debug\Exercício48_Catraca.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício48_Catraca\obj\Debug\Exercício48_Catraca.pdb

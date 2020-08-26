@@ -1,0 +1,7 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício47_EscolaNataçãp\bin\Debug\Exercício47_EscolaNataçãp.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício47_EscolaNataçãp\bin\Debug\Exercício47_EscolaNataçãp.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício47_EscolaNataçãp\bin\Debug\Exercício47_EscolaNataçãp.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício47_EscolaNataçãp\obj\Debug\Exercício47_EscolaNataçãp.csprojAssemblyReference.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício47_EscolaNataçãp\obj\Debug\Exercício47_EscolaNataçãp.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício47_EscolaNataçãp\obj\Debug\Exercício47_EscolaNataçãp.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício47_EscolaNataçãp\obj\Debug\Exercício47_EscolaNataçãp.pdb

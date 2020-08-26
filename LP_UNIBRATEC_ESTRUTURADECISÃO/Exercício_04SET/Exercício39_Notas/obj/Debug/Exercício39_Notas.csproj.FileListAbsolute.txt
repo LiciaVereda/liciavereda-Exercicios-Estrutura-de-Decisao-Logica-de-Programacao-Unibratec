@@ -1,0 +1,7 @@
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício39_Notas\bin\Debug\Exercício39_Notas.exe.config
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício39_Notas\bin\Debug\Exercício39_Notas.exe
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício39_Notas\bin\Debug\Exercício39_Notas.pdb
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício39_Notas\obj\Debug\Exercício39_Notas.csprojAssemblyReference.cache
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício39_Notas\obj\Debug\Exercício39_Notas.csproj.CoreCompileInputs.cache
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício39_Notas\obj\Debug\Exercício39_Notas.exe
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício39_Notas\obj\Debug\Exercício39_Notas.pdb

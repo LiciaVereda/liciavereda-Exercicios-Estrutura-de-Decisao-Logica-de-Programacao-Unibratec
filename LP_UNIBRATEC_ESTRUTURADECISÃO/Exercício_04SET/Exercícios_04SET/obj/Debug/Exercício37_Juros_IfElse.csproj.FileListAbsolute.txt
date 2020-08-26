@@ -1,0 +1,7 @@
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercícios_04SET\bin\Debug\Exercícios_04SET.exe.config
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercícios_04SET\bin\Debug\Exercícios_04SET.exe
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercícios_04SET\bin\Debug\Exercícios_04SET.pdb
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercícios_04SET\obj\Debug\Exercício37_Juros_IfElse.csprojAssemblyReference.cache
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercícios_04SET\obj\Debug\Exercício37_Juros_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercícios_04SET\obj\Debug\Exercícios_04SET.exe
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercícios_04SET\obj\Debug\Exercícios_04SET.pdb

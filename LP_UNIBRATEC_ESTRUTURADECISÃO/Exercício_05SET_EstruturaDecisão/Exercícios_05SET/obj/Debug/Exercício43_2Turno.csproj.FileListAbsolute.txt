@@ -1,0 +1,7 @@
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET\Exercícios_05SET\bin\Debug\Exercícios_05SET.exe.config
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET\Exercícios_05SET\bin\Debug\Exercícios_05SET.exe
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET\Exercícios_05SET\bin\Debug\Exercícios_05SET.pdb
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET\Exercícios_05SET\obj\Debug\Exercício43_2Turno.csprojAssemblyReference.cache
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET\Exercícios_05SET\obj\Debug\Exercício43_2Turno.csproj.CoreCompileInputs.cache
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET\Exercícios_05SET\obj\Debug\Exercícios_05SET.exe
+F:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET\Exercícios_05SET\obj\Debug\Exercícios_05SET.pdb

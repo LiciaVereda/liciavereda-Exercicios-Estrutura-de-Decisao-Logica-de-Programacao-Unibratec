@@ -1,0 +1,6 @@
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício40_ParImpar\bin\Debug\Exercício40_ParImpar.exe.config
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício40_ParImpar\bin\Debug\Exercício40_ParImpar.exe
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício40_ParImpar\bin\Debug\Exercício40_ParImpar.pdb
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício40_ParImpar\obj\Debug\Exercício40_ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício40_ParImpar\obj\Debug\Exercício40_ParImpar.exe
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício40_ParImpar\obj\Debug\Exercício40_ParImpar.pdb

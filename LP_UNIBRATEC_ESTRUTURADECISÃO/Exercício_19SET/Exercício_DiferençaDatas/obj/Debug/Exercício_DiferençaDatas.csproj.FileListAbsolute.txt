@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_DiferençaDatas\bin\Debug\Exercício_DiferençaDatas.exe.config
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_DiferençaDatas\bin\Debug\Exercício_DiferençaDatas.exe
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_DiferençaDatas\bin\Debug\Exercício_DiferençaDatas.pdb
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_DiferençaDatas\obj\Debug\Exercício_DiferençaDatas.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_DiferençaDatas\obj\Debug\Exercício_DiferençaDatas.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_DiferençaDatas\obj\Debug\Exercício_DiferençaDatas.exe
+C:\Users\aluno\Desktop\Exercício_19SET\Exercício_DiferençaDatas\obj\Debug\Exercício_DiferençaDatas.pdb

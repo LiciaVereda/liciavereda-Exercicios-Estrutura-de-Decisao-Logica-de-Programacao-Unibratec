@@ -1,0 +1,7 @@
+C:\Users\LICIA\source\repos\Exercício18_SET\Exercício_IMC\bin\Debug\Exercício_IMC.exe.config
+C:\Users\LICIA\source\repos\Exercício18_SET\Exercício_IMC\bin\Debug\Exercício_IMC.exe
+C:\Users\LICIA\source\repos\Exercício18_SET\Exercício_IMC\bin\Debug\Exercício_IMC.pdb
+C:\Users\LICIA\source\repos\Exercício18_SET\Exercício_IMC\obj\Debug\Exercício_IMC.csprojAssemblyReference.cache
+C:\Users\LICIA\source\repos\Exercício18_SET\Exercício_IMC\obj\Debug\Exercício_IMC.csproj.CoreCompileInputs.cache
+C:\Users\LICIA\source\repos\Exercício18_SET\Exercício_IMC\obj\Debug\Exercício_IMC.exe
+C:\Users\LICIA\source\repos\Exercício18_SET\Exercício_IMC\obj\Debug\Exercício_IMC.pdb

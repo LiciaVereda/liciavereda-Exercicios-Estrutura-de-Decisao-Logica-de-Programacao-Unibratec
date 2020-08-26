@@ -1,0 +1,7 @@
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício38_JurosDesconto\bin\Debug\Exercício38_JurosDesconto.exe.config
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício38_JurosDesconto\bin\Debug\Exercício38_JurosDesconto.exe
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício38_JurosDesconto\bin\Debug\Exercício38_JurosDesconto.pdb
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício38_JurosDesconto\obj\Debug\Exercício38_JurosDesconto.csprojAssemblyReference.cache
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício38_JurosDesconto\obj\Debug\Exercício38_JurosDesconto.csproj.CoreCompileInputs.cache
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício38_JurosDesconto\obj\Debug\Exercício38_JurosDesconto.exe
+C:\Users\LICIA\source\repos\Exercícios_04SET\Exercício38_JurosDesconto\obj\Debug\Exercício38_JurosDesconto.pdb

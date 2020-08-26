@@ -1,0 +1,6 @@
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício46_ReajusteSal\bin\Debug\Exercício46_ReajusteSal.exe.config
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício46_ReajusteSal\bin\Debug\Exercício46_ReajusteSal.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício46_ReajusteSal\bin\Debug\Exercício46_ReajusteSal.pdb
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício46_ReajusteSal\obj\Debug\Exercício46_ReajusteSal.csproj.CoreCompileInputs.cache
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício46_ReajusteSal\obj\Debug\Exercício46_ReajusteSal.exe
+D:\Programação\ADS-IBRATEC\BÁSICO A\FUNDAMENTOS DA PROGRAMAÇÃO\Exercícios_FDP\Exercícios_05SET_EstrutiraDecisão\Exercício46_ReajusteSal\obj\Debug\Exercício46_ReajusteSal.pdb
